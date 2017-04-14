@@ -1,3 +1,10 @@
+Dependency from yii2-bootstrap is removed here!
+===============================================
+
+Note that widget will rely on overriden yii\bootstrap\BootstrapPluginAsset!
+
+
+
 Bootstrap DatePicker Widget for Yii2
 ====================================
 
